@@ -55,5 +55,3 @@ python variants_missing_images.py
 The script will now check your Shopify store's products and print out the required information.
 
 ---
-
-You can save this text as `README.md` in the same location as your script to provide guidance for future users.
